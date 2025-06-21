@@ -1,2 +1,2 @@
-# my-portfolio
-Web Developer | Full Stack Developer
+# Web Developer | Full Stack Developer
+
